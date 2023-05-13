@@ -37,4 +37,3 @@ install(DIRECTORY caffe
 
 # _caffe.so
 install(TARGETS pycaffe  DESTINATION python/caffe)
-
